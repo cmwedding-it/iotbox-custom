@@ -1,0 +1,3 @@
+{
+    "files.exclude": { "iotbox.img": true, "iotbox.tar.gz": true }
+}

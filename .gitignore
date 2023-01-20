@@ -1,5 +1,7 @@
 # Iotbox image
 iotbox.img
+iotbox.tar.gz
+*.zip
 
 # Mount points
 boot/
