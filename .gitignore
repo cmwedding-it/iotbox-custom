@@ -1,0 +1,10 @@
+# Iotbox image
+iotbox.img
+
+# Mount points
+boot/
+rootfs/
+
+# Private keys
+*.key
+*.crt
